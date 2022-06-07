@@ -3,7 +3,7 @@ function App() {
 
   return (
     <div className="bg-gray-200 w-full ">
-      hello world
+      hello dev
     </div>
   );
 }
